@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Farid Nabil Firdaus</h1>
-<h3 align="center">A passionate web developer from Indonesia</h3> <p align="left"> <img src="https://komarev.com/ghpvc/?username=Faridnabil&label=Profile%20Views&color=0e75b6&style=flat" alt="Faridnabil" /> </p>
+<h3 align="center">A passionate web developer from Indonesia</h3> 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Faridnabil&label=Profile%20Views&color=0e75b6&style=flat" alt="Faridnabil" /> </p>
 
 <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png"/>
 
